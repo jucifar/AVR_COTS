@@ -1,0 +1,10 @@
+#ifndef GLCD_CONFIG_H
+#define GLCD_CONFIG_H
+/*
+GLCD_FONT5x7
+GLCD_FONT7x7
+*/
+#define GLCD_FONT_SIZE GLCD_FONT7x7
+#define GLCD_FONT_WIDTH GLCD_FONT7x7
+
+#endif
